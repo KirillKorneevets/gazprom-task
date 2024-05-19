@@ -1,8 +1,7 @@
 import pandas as pd
 from pydantic import ValidationError
 
-from models.response import ApiResponseModel, RowModel
-
+from src.models.response import *
 
 def process_data(data):
     try:

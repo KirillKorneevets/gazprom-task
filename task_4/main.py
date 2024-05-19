@@ -18,3 +18,9 @@ folder_path = "C:\\Users\\Lenovo\\Desktop\\test\\task_4\del\\"
 second = 30
 
 delete_files_older_than(folder_path, second)
+
+
+"""
+# Имеется папка с файлами
+# Реализовать удаление файлов старше N дней
+"""
